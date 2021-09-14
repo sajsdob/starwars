@@ -4,7 +4,7 @@
 <br> 
 2. npm run serve
    
-##Sample User: 
+## Sample User: 
 username: Lordvader 
 <br>
 password: I_love_cats
